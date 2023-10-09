@@ -7,3 +7,4 @@ Tested pages
 -Broken Images 
 -Form Authentication
 -Horizontal slider
+-File upload
