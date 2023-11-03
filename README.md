@@ -8,3 +8,4 @@ Tested pages
 -Form Authentication
 -Horizontal slider
 -File upload
+-Data Driven Test(DDT)
