@@ -9,3 +9,4 @@ Tested pages
 -Horizontal slider
 -File upload
 -Data Driven Test(DDT)
+-Input Validation
