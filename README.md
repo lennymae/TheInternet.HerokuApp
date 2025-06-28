@@ -1,10 +1,8 @@
 # SeleniumJava
-Automated Scripts for The Internet Heroku App and ParaBank using Selenium and Java(TestNG for reporting)
+Automated Scripts for Testing on multiple applications(The Internet Heroku App and ParaBank) using Selenium and Java(TestNG for reporting)
 
 
-Test Cases
-
-Heroku
+The Internet Heroku App
 -Add Element
 -Alerts
 -Broken Images 
