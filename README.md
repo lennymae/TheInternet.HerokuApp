@@ -1,7 +1,10 @@
-# SeleniumJava_TheInternetHerokuApp
-Automated Scripts for The Internet Heroku App using Selenium and Java
-Tested pages
+# SeleniumJava
+Automated Scripts for The Internet Heroku App and ParaBank using Selenium and Java(TestNG for reporting)
 
+
+Test Cases
+
+Heroku
 -Add Element
 -Alerts
 -Broken Images 
@@ -10,3 +13,6 @@ Tested pages
 -File upload
 -Data Driven Test(DDT)
 -Input Validation
+
+ParaBank
+-User Creation
