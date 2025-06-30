@@ -3,8 +3,9 @@
 <suite name="Suite">
 <test thread-count="5" name="Test">
 <classes>
-<class name="test.java.ParaBank.UserCreationTest"/>
+<class name="test.java.ParaBank.SubmitCustomerInquiryTest"/>
  <!-- 
+<class name="test.java.ParaBank.UserCreationTest"/>
 <class name="test.java.Heroku.AddElementTest"/>
 <class name="test.java.Heroku.AlertsTest"/>
 <class name="test.java.Heroku.BrokenImageTest"/>
